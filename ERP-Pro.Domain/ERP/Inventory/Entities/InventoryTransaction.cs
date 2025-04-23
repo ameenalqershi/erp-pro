@@ -1,0 +1,2 @@
+// InventoryTransaction.cs
+// تم إنشاؤه تلقائيًا.
