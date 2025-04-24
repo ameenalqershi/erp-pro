@@ -1,2 +1,9 @@
-// AccountStatus.cs
-// تم إنشاؤه تلقائيًا.
+namespace ERP_Pro.Domain.Accounts.Enums
+{
+    public enum AccountStatus
+    {
+        Active,
+        Inactive,
+        Suspended
+    }
+}

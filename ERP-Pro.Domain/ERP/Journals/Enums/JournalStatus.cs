@@ -1,2 +1,9 @@
-// JournalStatus.cs
-// تم إنشاؤه تلقائيًا.
+namespace ERP_Pro.Domain.Journals.Enums
+{
+    public enum JournalStatus
+    {
+        Draft,
+        Posted,
+        Cancelled
+    }
+}

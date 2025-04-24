@@ -1,2 +1,10 @@
-// InvoiceStatus.cs
-// تم إنشاؤه تلقائيًا.
+namespace ERP_Pro.Domain.Invoices.Enums
+{
+    public enum InvoiceStatus
+    {
+        Draft,
+        Issued,
+        Paid,
+        Cancelled
+    }
+}

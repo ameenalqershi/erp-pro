@@ -1,2 +1,11 @@
-// AccountNature.cs
-// تم إنشاؤه تلقائيًا.
+namespace ERP_Pro.Domain.Accounts.Enums
+{
+    public enum AccountNature
+    {
+        Asset,
+        Liability,
+        Equity,
+        Revenue,
+        Expense
+    }
+}

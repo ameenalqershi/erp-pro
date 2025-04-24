@@ -1,2 +1,10 @@
-// JournalType.cs
-// تم إنشاؤه تلقائيًا.
+namespace ERP_Pro.Domain.Journals.Enums
+{
+    public enum JournalType
+    {
+        Manual,
+        System,
+        OpeningBalance,
+        Adjustment
+    }
+}
